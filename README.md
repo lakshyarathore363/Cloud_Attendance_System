@@ -1,5 +1,5 @@
 # Cloud_Attendance_System
-Cloud based student attendance system
+Cloud based student attendance system project
 
 Architecture
 ---------------
